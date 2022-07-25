@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/bin/Debug/net6.0/actividad-3-PE
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/bin/Debug/net6.0/actividad-3-PE.deps.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/bin/Debug/net6.0/actividad-3-PE.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/bin/Debug/net6.0/actividad-3-PE.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/bin/Debug/net6.0/actividad-3-PE.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/refint/actividad-3-PE.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/actividad-3-PE.genruntimeconfig.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/CS-Actividad-3/obj/Debug/net6.0/ref/actividad-3-PE.dll
